@@ -1,10 +1,10 @@
-<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
+<!-- <img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/> -->
  
-### Hi there 👋, I'm Christina Kopecky. I'm a web developer and technical writer. Welcome to my gh page! <br>
+### Hi there 👋, I'm Mirza Adeel Baig. I'm a MERN stack developer and android developer. Welcome to my gh page! <br>
  
-Resume:  [Christina Kopecky Resume](https://resume.christinakopecky.com) (PDF download)
+<!-- Resume:  [Christina Kopecky Resume](https://resume.christinakopecky.com) (PDF download) -->
  
-🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. Here are some examples of what I have been writing on: <br>
+<!-- 🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. Here are some examples of what I have been writing on: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [React Components: Class vs. Functional](https://careerkarma.com/blog/react-components/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Fundamentals: JavaScript Scopes and Closure](https://careerkarma.com/blog/javascript-closure/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CSS Flexbox](https://careerkarma.com/blog/css-flexbox/)<br>
@@ -21,7 +21,7 @@ Resume:  [Christina Kopecky Resume](https://resume.christinakopecky.com) (PDF do
 😄 Pronouns: She/Her/Hers <br>
 ⚡ Fun facts:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  In my previous career I was a flutist and flute teacher. You can hear me play here: [Hypnosis by Ian Clarke](https://www.youtube.com/watch?v=6MiZszJjBIQ)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is fall :smile: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is fall :smile: <br> -->
  
  
 <!--
