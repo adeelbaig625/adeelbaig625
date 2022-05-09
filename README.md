@@ -15,7 +15,7 @@ I-am-adeelbaig625@github
 📚 I have a Bachelors in Software Engineering from SirSyed University of Engineering and Technology
 📝 I have a strong interest in SmartContracts and Backend Development
 🔭 Working on Web and App development
-🌱 Learning about Solidity.
+🌱 Learning about Solidity
 🌟 Main languages: JavaScript,Java
 🚩 Interested in Full Stack Application development
 🎵 Love metal, lofi, jazz and soft music
