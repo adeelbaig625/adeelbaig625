@@ -11,9 +11,9 @@ Hi, I'm Mirza Adeel Baig!
 ```
 I-am-adeelbaig625@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a BlockChain Developer
+💻 I am a self taught Full Stack Developer and a Mobile App Developer
 📚 I have a Bachelors in Software Engineering from SirSyed University of Engineering and Technology
-📝 I have a strong interest in SmartContracts and Backend Development
+📝 I have a strong interest in Mobile Apps and Backend Development
 🔭 Working on Web and App development
 🌱 Learning about Solidity
 🌟 Main languages: JavaScript,Java
