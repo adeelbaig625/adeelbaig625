@@ -71,7 +71,6 @@ I-am-adeelbaig625@github
 
 |                                                                     Adeel's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Adeel's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=adeelbaig625&theme=react-dark&hide_border=true&area=true) |
 | ![Adeel's github stats](https://github-readme-stats.vercel.app/api?username=adeelbaig625&show_icons=true&theme=algolia)              | 
 | ![Adeel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adeelbaig625&theme=algolia)                    | 
     
