@@ -22,7 +22,6 @@ I-am-adeelbaig625@github
 ```
 <hr>
 
-
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
