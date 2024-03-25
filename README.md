@@ -10,10 +10,10 @@ Hi, I'm Mirza Adeel Baig!
 
 ```
 💻 I am a self taught Full Stack Developer and a Mobile App Developer
-📚 I have a Bachelors in Software Engineering from SirSyed University of Engineering and Technology
+📚 I am currently pursuing Masters Degree in Computer Science from NED University
 📝 I have a strong interest in Mobile Apps and Backend Development
 🔭 Working on Web and App development
-🌱 Learning about Solidity
+🌱 Learning about DevOps
 🌟 Main languages: JavaScript,Java
 🚩 Interested in Full Stack Application development
 🎵 Love metal, lofi, jazz and soft music
