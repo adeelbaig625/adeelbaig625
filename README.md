@@ -13,10 +13,9 @@ Hi, I'm Mirza Adeel Baig!
 📚 I am currently pursuing Masters Degree in Computer Science from NED University
 📝 I have a strong interest in Mobile Apps and Backend Development
 🔭 Working on Web and App development
-🌱 Learning about DevOps
+🌱 Learning about AI and DevOps
 🌟 Main languages: JavaScript,Java
 🚩 Interested in Full Stack Application development
-🎵 Love metal, lofi, jazz and soft music
 ```
 <hr>
 
