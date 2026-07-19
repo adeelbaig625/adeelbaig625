@@ -5,9 +5,6 @@ Hi, I'm Mirza Adeel Baig!
 <!--  <img src="https://gpvc.arturio.dev/adeelbaig625" alt="Profile views" align='right'/> <a href="https://github.com/adeelbaig625"> </a>  -->
 <br/>
 
-
-
-
 ```
 💻 I am a self taught Full Stack Developer and a Mobile App Developer
 📚 I am currently pursuing Masters Degree in Computer Science from NED University
@@ -30,6 +27,7 @@ Hi, I'm Mirza Adeel Baig!
    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
   <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+</p>
 
 ### 🧰 Frameworks and Libraries
 
@@ -64,17 +62,9 @@ Hi, I'm Mirza Adeel Baig!
 
 ## GitHub Stats
 
-
 |                                                                     Adeel's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Adeel's github stats](https://github-readme-stats.vercel.app/api?username=adeelbaig625&show_icons=true&theme=algolia)              | 
-| ![Adeel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adeelbaig625&theme=algolia)                    | 
-    
-                                                                                                 
+| ![Adeel's github stats](https://github-readme-stats.vercel.app/api?username=adeelbaig625&show_icons=true&theme=algolia)              |
+| ![Adeel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adeelbaig625&theme=algolia)                    |
 
 ------
-
-
-
-
-
